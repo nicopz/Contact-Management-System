@@ -1,4 +1,8 @@
+# Falls diese Regel vorhanden ist, werden alle Ordner ausgeschlossen
+*/
 
+# Ausnahme für alle Ordner
+!*/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
